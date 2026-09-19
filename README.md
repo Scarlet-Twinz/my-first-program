@@ -39,3 +39,9 @@ This project is an early web-development exercise focused on HTML structure, pag
 **Anthony Emmanuella Mmasinachi**
 
 GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/my-first-program
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
