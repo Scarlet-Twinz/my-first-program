@@ -26,9 +26,12 @@ A beginner HTML project that brings together several linked pages to practice ba
 
 No build tools or dependencies are required.
 
-1. Clone the repository.
-2. Open `index.html` in a web browser.
-3. Use the navigation links to move between the pages.
+```bash
+git clone https://github.com/Scarlet-Twinz/my-first-program.git
+cd my-first-program
+```
+
+Open `index.html` in a web browser and use the navigation links to move between the pages.
 
 ## Project Purpose
 
