@@ -1,4 +1,4 @@
-#  My First Program
+# My First Program
 
 A beginner HTML project that brings together several linked pages to practice basic website structure and navigation.
 
